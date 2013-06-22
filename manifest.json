@@ -4,5 +4,11 @@
         "sha1": "fbcded58df0ea838c17d56a5e3cdace56127d538",
         "url": "http://mattketmo.github.com/my-cli/downloads/my-cli-1.0.0.phar",
         "version": "1.0.0"
+    },
+    {
+        "name": "my-cli.phar",
+        "sha1": "5b63305a309ae9c4c391b68b4376b9667b0f2810",
+        "url": "http://mattketmo.github.com/my-cli/downloads/my-cli-1.0.1.phar",
+        "version": "1.0.1"
     }
 ]
