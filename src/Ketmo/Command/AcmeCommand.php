@@ -22,7 +22,7 @@ class AcmeCommand extends Command
 
     protected function execute(InputInterface $input, OutputInterface $output)
     {
-        $text = '<info>Hello</info>';
+        $text = '<info>Hi</info>';
 
         $name = $input->getArgument('name');
         if ($name) {
