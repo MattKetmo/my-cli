@@ -26,7 +26,9 @@ class UpdateCommand extends Command
 
         $output->writeln('Looking for updates...');
 
-        if ($manager->update('1.0.0', true)) {
+        $currentVersion = $this->getApplication()->getVersion();
+
+        if ($manager->update($currentVersion, true)) {
             $output->writeln('<info>Updated to latest version</info>');
         } else {
             $output->writeln('<comment>Already up-to-date.</comment>');
