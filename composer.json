@@ -1,6 +1,7 @@
 {
     "require": {
-        "symfony/console": "@stable"
+        "symfony/console": "@stable",
+        "herrera-io/phar-update": "1.*"
     },
     "autoload": {
         "psr-0": {

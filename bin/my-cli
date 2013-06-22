@@ -8,4 +8,5 @@ use Symfony\Component\Console\Application;
 
 $application = new Application('My CLI', '@package_version@');
 $application->add(new Command\AcmeCommand);
+$application->add(new Command\UpdateCommand);
 $application->run();

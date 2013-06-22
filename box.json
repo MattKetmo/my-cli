@@ -2,7 +2,8 @@
     "chmod": "0755",
     "directories": ["src"],
     "files": [
-        "LICENSE"
+        "LICENSE",
+        "vendor/herrera-io/phar-update/res/schema.json"
     ],
     "finder": [
         {

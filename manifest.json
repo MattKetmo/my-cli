@@ -1,0 +1,14 @@
+[
+{
+    "name": "box.phar",
+    "sha1": "0809660c1527daae1665806a6b3db157b36f621d",
+    "url": "https://bitbucket.org/kherge/php-box/downloads/box-1.0.9.phar",
+    "version": "1.0.9"
+},
+{
+    "name": "box.phar",
+    "sha1": "a1102d8427d1957cb335a66fafcc62b2355b6384",
+    "url": "https://bitbucket.org/kherge/php-box/downloads/box-2.1.0.phar",
+    "version": "2.1.0"
+}
+]
