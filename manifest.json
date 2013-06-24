@@ -10,5 +10,12 @@
         "sha1": "5b63305a309ae9c4c391b68b4376b9667b0f2810",
         "url": "http://mattketmo.github.com/my-cli/downloads/my-cli-1.0.1.phar",
         "version": "1.0.1"
+    },
+    {
+        "name": "my-cli.phar",
+        "sha1": "ceab7ee16389ba6258d17eafcc8de348941d03da",
+        "url": "http://mattketmo.github.com/my-cli/downloads/my-cli-1.0.2.phar",
+        "version": "1.0.2",
+        "publicKey": "http://mattketmo.github.com/my-cli/public.key"
     }
 ]
