@@ -13,7 +13,7 @@
     },
     {
         "name": "my-cli.phar",
-        "sha1": "ceab7ee16389ba6258d17eafcc8de348941d03da",
+        "sha1": "7e6855b96d78888de76934ac987c85170d048a91",
         "url": "http://mattketmo.github.com/my-cli/downloads/my-cli-1.0.2.phar",
         "version": "1.0.2",
         "publicKey": "http://mattketmo.github.com/my-cli/pubkey/my-cli.phar-1.0.2.pubkey"
