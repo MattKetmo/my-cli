@@ -16,6 +16,6 @@
         "sha1": "ceab7ee16389ba6258d17eafcc8de348941d03da",
         "url": "http://mattketmo.github.com/my-cli/downloads/my-cli-1.0.2.phar",
         "version": "1.0.2",
-        "publicKey": "http://mattketmo.github.com/my-cli/public.key"
+        "publicKey": "http://mattketmo.github.com/my-cli/pubkey/my-cli.phar-1.0.2.pubkey"
     }
 ]
