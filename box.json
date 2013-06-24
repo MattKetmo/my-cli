@@ -15,5 +15,7 @@
     "git-version": "package_version",
     "main": "bin/my-cli",
     "output": "my-cli.phar",
-    "stub": true
+    "stub": true,
+    "key": "private.key",
+    "key-pass": "hello"
 }
